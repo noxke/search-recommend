@@ -1,0 +1,28 @@
+{
+    "recv_server" : {
+        "host" : "127.0.0.1",
+        "port" : 2256
+    },
+    "web_server" : {
+        "host" : "127.0.0.1",
+        "port" : 8080
+    },
+    "raw_url_db" : {
+        "host" : "127.0.0.1",
+        "user" : "user",
+        "passwd" : "passwd",
+        "database" : "raw_url"
+    },
+    "query_db" : {
+        "host" : "127.0.0.1",
+        "user" : "user",
+        "passwd" : "passwd",
+        "database" : "query"
+    },
+    "query_to_url_db" : {
+        "host" : "127.0.0.1",
+        "user" : "user",
+        "passwd" : "passwd",
+        "database" : "query_to_url"
+    }
+}
